@@ -46,7 +46,14 @@ These notebooks show hands-on work with **Pandas for data manipulation**, cleani
 
 ### 📘 Notebook — *Pandas Analysis 2*  
 🔗 [LINK](https://colab.research.google.com/drive/1neSFj7CRQrm5CfpcJqiLRmJn5i7QAEXK)  
-**Focus:** Grouped summarisation, pivot-style analysis, filtering logic.
+**Focus:** 
+
+- Creating Pandas DataFrames from other Python collections
+- Dataframe properties and information
+- Selecting a single column
+- Adding new columns to a DataFrame
+- Renaming columns
+- Descriptive stats on the columns
 
 ---
 
